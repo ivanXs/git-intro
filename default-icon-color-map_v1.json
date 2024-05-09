@@ -48,8 +48,8 @@
       "color": "red"
     },
     "agent": {
-      "name": "agent-unique-code-regular",
-      "color": "pink"
+      "name": "icon-headset_16",
+      "color": "mint"
     },
     "social": {
       "name": "icon-contact-group_16",
@@ -108,4 +108,3 @@
       "color": "yellow"
     }
   }
-  
