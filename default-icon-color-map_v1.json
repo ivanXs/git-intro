@@ -1,4 +1,16 @@
 {
+    "Blind Transfer": {
+      "name": "icon-away-calling-presence_16",
+      "color": "purple"
+    },
+    "Input Fail": {
+      "name": "icon-close-space_18",
+      "color": "red"
+    },
+    "Web Visit": {
+      "name": "icon-file-spreadsheet_16",
+      "color": "slate"
+    },
     "Chat": {
       "name": "icon-chat-active_16",
       "color": "cobalt"
